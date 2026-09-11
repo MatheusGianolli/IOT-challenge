@@ -1,6 +1,6 @@
 # 🐾 CLYVO VET - Sistema Inteligente de Triagem e Apoio ao Diagnóstico
 
-**Equipe:** Gabriel Gianolli, Enzo Xavier Coelho, Gustavo Ribeiro Permagnani, Larissa Juvenal de Magalhães e Julia Menezes.
+**Equipe:** Matheus Gianolli, Enzo Xavier Coelho, Gustavo Ribeiro Permagnani, Larissa Juvenal de Magalhães e Julia Menezes.
 
 ## 1. Visão Geral e Problema de Negócio
 No ecossistema de saúde veterinária, o tempo de resposta entre a identificação de um sintoma pelo tutor e o atendimento clínico pode ser crítico para a saúde do pet. Clínicas veterinárias frequentemente enfrentam gargalos na triagem de pacientes, resultando em salas de espera lotadas, estresse para os animais e sobrecarga dos profissionais. 
