@@ -2,6 +2,22 @@
 
 **Equipe:** Matheus Gianolli, Enzo Xavier Coelho, Gustavo Ribeiro Permagnani, Larissa Juvenal de Magalhaes e Julia Menezes.
 
+
+1. Matheus Gianolli - RM 565258
+2. Gustavo Ribeiro Permagnani- RM 564995
+3. Enzo Xavier Coelho - RM 563379
+4. Julia Menezes - RM 565568
+5. Larissa De Magalhaes - RM 566457
+
+Links para Avaliação:
+
+Repositório GitHub: https://github.com/MatheusGianolli/IOT-challenge.git
+
+Vídeo Pitch (YouTube): https://youtu.be/SmZzfZo7jVM
+
+
+
+
 ---
 
 ## 📌 1. O Problema de Negócio
@@ -81,3 +97,8 @@ Para demonstrar o funcionamento do componente de IA, realizamos uma simulação 
   ],
   "recomendacao_clinica_previa": "Preparar sala para otoscopia. Sugerida coleta de material para citologia auricular. Orientar tutor a não aplicar remédios caseiros até a consulta."
 }
+
+
+
+
+
