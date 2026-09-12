@@ -1,0 +1,14 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "nome": "Rex",
+      "especie": "Canina",
+      "raca": "Golden Retriever",
+      "idade_anos": 4,
+      "peso_kg": 32.5,
+      "historico_vacinacao": "em dia",
+      "condicoes_pre_existentes": "Nenhuma"
+    }
+  ]
+}
